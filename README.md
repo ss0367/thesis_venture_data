@@ -1,1 +1,1 @@
-# thesis_venture_data
+This repository contains 4 separate data files: the raw data export from Preqin (raw_preqin_venture_data.xlsx), the raw data export from Capital IQ (raw_capitaliq_venture_data.xlsx), the processed data file from Preqin (processed_preqin_data.csv), and the processed data file from Capital IQ (processed_capitaliq_data.csv).
